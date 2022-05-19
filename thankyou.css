@@ -1,0 +1,36 @@
+.thankyou{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.thanks{
+    font-size: 50px;
+    text-align: center;
+    
+}
+.complete{
+    color: #FFDB58;
+    text-align: center ;
+}
+.owe{
+    color: bisque;
+    text-align: center;
+}
+.yay{
+   margin-inline: 10%;
+    border: 10%;
+    border-style: solid;
+    padding: 3%;
+    border-radius: 2%;
+    width: 20%;
+    height: 35vh;
+    background-image: url(https://media.istockphoto.com/photos/blank-white-card-in-pink-envelope-isolated-on-pink-pastel-color-with-picture-id1295470488?b=1&k=20&m=1295470488&s=170667a&w=0&h=g9HVwxqPmGqVlFtSCSfcH9bHrBqegOGVlA-Ac92-nwk=); */
+}
+body{
+    
+    color: bisque;
+    font-family: chalkduster;
+    line-height: 2;
+    width: max-content;
+}
